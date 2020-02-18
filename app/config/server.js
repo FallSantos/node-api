@@ -30,7 +30,6 @@ app.get('/', (req, res) => {
       ]
     })
   })
-
 require('../src/routes/product')(app)
 
 module.exports = app

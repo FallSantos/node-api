@@ -7,6 +7,10 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallsantos/node-api.git"
+  },
   "keywords": [
     "api",
     "starter",
